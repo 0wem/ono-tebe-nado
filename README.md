@@ -1,1 +1,1 @@
-https://github.com/0wem/ono-tebe-nad
+https://github.com/0wem/ono-tebe-nado
